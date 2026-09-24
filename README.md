@@ -25,18 +25,12 @@ customer behavior, product performance, and profitabilIty.
 
 ## PROBLEM STATEMENT
 # Charts Requirement
-•	How are total sales changing over time?→ Total Sales by Month
-Visual: Area chart
-•	Which products generate the highest sales?→ Sales by Product
-Visual: Bar chart
-•	Which product categories contribute the most to total sales?→ Sales by Product Category
-Visual: Bar chart
-•	Which geographical regions generate the most sales?→ Sales by Region/State
-Visual: donut chart
-•	Which employees generate the highest sales?→ Sales by Employee
-Visual:  bar chart
-•	Who are the highest-value customers?→ Top Customers by Total Sales
-Visual: Bar chart/table
+•	How are total sales changing over time?→ Total Sales by Month, Visual: Area chart
+•	Which products generate the highest sales?→ Sales by Product, Visual: Bar chart
+•	Which product categories contribute the most to total sales?→ Sales by Product Category, Visual: Bar chart
+•	Which geographical regions generate the most sales?→ Sales by Region/State,  Visual: donut chart
+•	Which employees generate the highest sales?→ Sales by Employee, Visual:  bar chart
+•	Who are the highest-value customers?→ Top Customers by Total Sales, Visual: Bar chart/table
 
 ## TOOL USED
 •	Power BI Desktop
