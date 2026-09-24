@@ -16,7 +16,7 @@ customer behavior, product performance, and profitabilIty.
 -  Identify high-value customers based on their total sales contribution.
 
 -  ## PROBLEM STATEMENT
-KPI(key performance indicators)
+# KPI(key performance indicators)
 . Total Sales Revenue: How much revenue the business generated.
 . Total Orders: Number of sales/orders made
 . Total Profit: Overall profitability of the sales
@@ -24,7 +24,7 @@ KPI(key performance indicators)
 . Average Order Value (AOV): Average revenue generated per order
 
 ## PROBLEM STATEMENT
-Charts Requirement
+# Charts Requirement
 •	How are total sales changing over time?→ Total Sales by Month
 Visual: Area chart
 •	Which products generate the highest sales?→ Sales by Product
