@@ -1,9 +1,10 @@
-##  📊 PROGECT OVERVIEW
-This project analyzes sales data to understand business performance,
-customer behavior, product performance, and profitabilIty.
 
 # SALES-ANALYTICS-AND-BUSINESS-PERFORMANCE-DATASET
 Power BI sales analytics project focused on business performance, customer insights, product performance, geographical trends, and data-driven decision-making.
+
+##  📊 PROGECT OVERVIEW
+This project analyzes sales data to understand business performance,
+customer behavior, product performance, and profitabilIty.
 
 ## Business Requirements
 - Monitor overall sales performance by tracking total sales, orders, profit, customers, and average order value.
